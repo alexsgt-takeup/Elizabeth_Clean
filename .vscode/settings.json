@@ -1,0 +1,6 @@
+{
+    "editor.bracketPairColorization.enabled": true,
+    "editor.defaultFormatter": "sissel.shopify-liquid",
+    "editor.formatOnSave": true,
+    "liquid.format.enable": true
+}
